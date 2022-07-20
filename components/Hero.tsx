@@ -4,7 +4,7 @@ export default function Hero() {
 
     return(
         <div >
-        <section className="bg-blend-darken bg-cover bg-[url('../hero2.png')]">
+        <section className="bg-blend-darken bg-cover bg-hero-pattern">
   <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
 
     <h1 className="mb-4 mt-20 text-white text-4xl font-extrabold tracking-tight leading-none md:text-5xl lg:text-6xl ">
