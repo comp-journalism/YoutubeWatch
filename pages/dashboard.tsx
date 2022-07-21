@@ -18,6 +18,7 @@ export async function getServerSideProps() {
 
 export default function Dashboard({data}: any) {
     // console.log(data, 'data')
+    let tags = ['', 'Film & Animation', 'Autos & Vehicles', '', '', '', '', '', '', '', 'Music', '', '', '', '', 'Pets & Animals', '', 'Sports', 'Short Movies', 'Travel & Events', 'Gaming', 'Videoblogging', 'People & Blogs', 'Comedy', 'Entertainment', 'News & Politics', 'Howto & Style', 'Education', 'Science & Technology', 'Nonprofits & Activism', 'Movies', 'Anime/Animation', 'Action/Adventure', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Horror', 'Sci-Fi/Fantasy', 'Thriller', 'Shorts', 'Shows', 'Trailers']
 
   return (
     <div>
@@ -95,7 +96,7 @@ export default function Dashboard({data}: any) {
                         className="px-2 inline-flex text-xs leading-5
                       font-semibold rounded-full bg-green-100 text-green-800"
                       >
-                        {item.snippet.categoryId}
+                        {tags[item.snippet.categoryId]}
                         {/* {item.snippet.tags[0]} */}
 
                       </span>
