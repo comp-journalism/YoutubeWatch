@@ -72,7 +72,7 @@ export default function Dashboard({data}: any) {
               <tbody className="bg-white divide-y divide-gray-200">
                 {data.items.map((item,index) => (
                   <tr key={index}>
-                    <td className="px-6 py-4 whitespace-nowrap">
+                    <td className="px-6 py-4 ">
                       <div className="flex items-center">
                         <div className="">
                           <div className="text-sm font-medium text-gray-900">{item.snippet.title}</div>
