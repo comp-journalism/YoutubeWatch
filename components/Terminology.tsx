@@ -8,10 +8,10 @@ export default function Terminology() {
         Terminology
     </h1>
     <h5 className="text-3xl pb-2">
-    Content View
+    Video View
         </h5>
     <h5 className="text-xl pb-9">
-    is what is counted whenever a piece of content appears in Feed. If there are multiple pieces of content in a post, the view is assigned to the post.
+    YouTube is continually changing how it counts views, but generally, a view is counted if a user watches a video for at least 30 seconds. You can read more <a href="https://www.tubics.com/blog/what-counts-as-a-view-on-youtube">here</a>.
 
 
     </h5>
