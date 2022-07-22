@@ -3,7 +3,8 @@ import React from "react";
 export default function Intro() {
 
     return(
-        <div className="container">
+        <div id="intro">
+        <div  className="container">
         <h1 className="text-5xl pt-11 pb-7 font-semibold">
             Introduction
         </h1>
@@ -16,5 +17,7 @@ export default function Intro() {
 
         
 </div>
+        </div>
+
     )
 }

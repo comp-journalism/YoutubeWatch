@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 export default function Hero() {
 
@@ -17,21 +18,26 @@ Transparency
         Look into widely viewed content on YouTube and explore the data about the most popular videos consumed.
     </p>
     <div className="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
-      <a
-        href="#"
-        className="inline-flex justify-center bg-red-400 items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
+      <div className="inline-flex justify-center bg-red-400 items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
+>
+<Link
+        href="/dashboard"
       >
         Visit Dashboard
-      </a>
-      <a
-        href="#"
-        className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800"
+      </Link>
+      </div>
+<div className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+<Link
+        href="/#intro"
       >
 
         Learn More
 
 
-        <svg
+
+
+      </Link>
+      <svg
           className="ml-2 -mr-1 w-5 h-5"
           fill="currentColor"
           viewBox="0 0 20 20"
@@ -43,8 +49,8 @@ Transparency
             clipRule="evenodd"
           />
         </svg>
+</div>
 
-      </a>
     </div>
 
   </div>
