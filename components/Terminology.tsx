@@ -16,27 +16,24 @@ export default function Terminology() {
 
     </h5>
     <h5 className="text-3xl pb-2">
-    Content Viewer
+    Video Viewer
     </h5>
     <h5 className="text-xl pb-9">
-    is an account who viewed a piece of content on Feed. This metric is estimated.
-
+    An account who viewed a video on YouTube.
 
     </h5>
     <h5 className="text-3xl pb-2">
-        Domain
+    Channel
     </h5>
     <h5 className="text-xl pb-9">
-    refers to the name of a website. A domain name is a unique name that identifies a website. For example, the domain name of Facebook is "facebook.com."
-
+    A portion of YouTube where a creator uploads and publishes videos.
 
     </h5>
     <h5 className="text-3xl pb-2">
-    Subdomain
+    Tag / Category Definitions
     </h5>
     <h5 className="text-xl pb-9">
-    refers to a domain that is part of a larger domain. For example, Facebook’s mobile site "m.facebook.com" is a subdomain of "facebook.com."
-
+    To come...
 
     </h5>
     </div>
