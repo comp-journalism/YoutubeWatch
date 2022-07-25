@@ -1,4 +1,3 @@
-ls
 import React from "react";
 
 export default function Intro() {
