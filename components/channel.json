@@ -1,0 +1,902 @@
+[
+  {
+    "rank": 1,
+    "youtuber": "T-Series",
+    "subscribers": 213000000,
+    "video views": "188,073,919,029",
+    "video count": 16708,
+    "category": "Music",
+    "started": 2006
+  },
+  {
+    "rank": 2,
+    "youtuber": "YouTube Movies",
+    "subscribers": 150000000,
+    "video views": "167,122,746,349",
+    "video count": "",
+    "category": "Film & Animation",
+    "started": 2015
+  },
+  {
+    "rank": 3,
+    "youtuber": "Cocomelon - Nursery Rhymes",
+    "subscribers": 133000000,
+    "video views": "126,822,520,940",
+    "video count": 751,
+    "category": "Education",
+    "started": 2006
+  },
+  {
+    "rank": 4,
+    "youtuber": "SET India",
+    "subscribers": 131000000,
+    "video views": "101,541,977,714",
+    "video count": 78334,
+    "category": "Shows",
+    "started": 2006
+  },
+  {
+    "rank": 5,
+    "youtuber": "Music",
+    "subscribers": 116000000,
+    "video views": "78,437,871,689",
+    "video count": "",
+    "category": "Music",
+    "started": 2013
+  },
+  {
+    "rank": 6,
+    "youtuber": "PewDiePie",
+    "subscribers": 111000000,
+    "video views": "28,260,779,633",
+    "video count": 4472,
+    "category": "Gaming",
+    "started": 2010
+  },
+  {
+    "rank": 7,
+    "youtuber": "MrBeast",
+    "subscribers": 93900000,
+    "video views": "15,417,304,461",
+    "video count": 721,
+    "category": "Entertainment",
+    "started": 2012
+  },
+  {
+    "rank": 8,
+    "youtuber": "Kids Diana Show",
+    "subscribers": 93800000,
+    "video views": "73,296,417,664",
+    "video count": 977,
+    "category": "People & Blogs",
+    "started": 2015
+  },
+  {
+    "rank": 9,
+    "youtuber": "Gaming",
+    "subscribers": 92100000,
+    "video views": "71,692,471,446",
+    "video count": "",
+    "category": "Gaming",
+    "started": 2013
+  },
+  {
+    "rank": 10,
+    "youtuber": "Like Nastya",
+    "subscribers": 91000000,
+    "video views": "74,204,846,514",
+    "video count": 670,
+    "category": "People & Blogs",
+    "started": 2016
+  },
+  {
+    "rank": 11,
+    "youtuber": "WWE",
+    "subscribers": 87600000,
+    "video views": "67,960,479,071",
+    "video count": 60699,
+    "category": "Sports",
+    "started": 2007
+  },
+  {
+    "rank": 12,
+    "youtuber": "Zee Music Company",
+    "subscribers": 83300000,
+    "video views": "46,291,230,294",
+    "video count": 6265,
+    "category": "Music",
+    "started": 2014
+  },
+  {
+    "rank": 13,
+    "youtuber": "Vlad and Niki",
+    "subscribers": 80900000,
+    "video views": "62,444,514,631",
+    "video count": 443,
+    "category": "Entertainment",
+    "started": 2018
+  },
+  {
+    "rank": 14,
+    "youtuber": "5-Minute Crafts",
+    "subscribers": 76300000,
+    "video views": "23,174,639,387",
+    "video count": 5281,
+    "category": "How to & Style",
+    "started": 2016
+  },
+  {
+    "rank": 15,
+    "youtuber": "Sports",
+    "subscribers": 75100000,
+    "video views": "22,156,639,371",
+    "video count": "",
+    "category": "Sports",
+    "started": 2013
+  },
+  {
+    "rank": 16,
+    "youtuber": "BLACKPINK",
+    "subscribers": 73600000,
+    "video views": "23,351,994,944",
+    "video count": 394,
+    "category": "People & Blogs",
+    "started": 2016
+  },
+  {
+    "rank": 17,
+    "youtuber": "Goldmines",
+    "subscribers": 68800000,
+    "video views": "16,271,446,682",
+    "video count": 3050,
+    "category": "Film & Animation",
+    "started": 2012
+  },
+  {
+    "rank": 18,
+    "youtuber": "Justin Bieber",
+    "subscribers": 68400000,
+    "video views": "27,701,817,623",
+    "video count": 243,
+    "category": "Music",
+    "started": 2007
+  },
+  {
+    "rank": 19,
+    "youtuber": "Sony SAB",
+    "subscribers": 65900000,
+    "video views": "75,885,489,073",
+    "video count": 50810,
+    "category": "Shows",
+    "started": 2007
+  },
+  {
+    "rank": 20,
+    "youtuber": "Canal KondZilla",
+    "subscribers": 65600000,
+    "video views": "36,145,092,618",
+    "video count": 2252,
+    "category": "Music",
+    "started": 2012
+  },
+  {
+    "rank": 21,
+    "youtuber": "BANGTANTV",
+    "subscribers": 65600000,
+    "video views": "15,827,521,495",
+    "video count": 1686,
+    "category": "Music",
+    "started": 2012
+  },
+  {
+    "rank": 22,
+    "youtuber": "HYBE LABELS",
+    "subscribers": 65000000,
+    "video views": "22,230,010,723",
+    "video count": 819,
+    "category": "Music",
+    "started": 2008
+  },
+  {
+    "rank": 23,
+    "youtuber": "Zee TV",
+    "subscribers": 62000000,
+    "video views": "15,900,076,809",
+    "video count": 59332,
+    "category": "Entertainment",
+    "started": 2005
+  },
+  {
+    "rank": 24,
+    "youtuber": "Shemaroo Filmi Gaane",
+    "subscribers": 59400000,
+    "video views": "27,266,280,091",
+    "video count": 7626,
+    "category": "Music",
+    "started": 2010
+  },
+  {
+    "rank": 25,
+    "youtuber": "Dude Perfect",
+    "subscribers": 57400000,
+    "video views": "14,219,518,587",
+    "video count": 287,
+    "category": "Sports",
+    "started": 2009
+  },
+  {
+    "rank": 26,
+    "youtuber": "Pinkfong Baby Shark - Kids' Songs & Stories",
+    "subscribers": 57000000,
+    "video views": "30,097,233,928",
+    "video count": 2227,
+    "category": "Education",
+    "started": 2011
+  },
+  {
+    "rank": 27,
+    "youtuber": "Movieclips",
+    "subscribers": 56600000,
+    "video views": "57,317,911,331",
+    "video count": 38746,
+    "category": "Film & Animation",
+    "started": 2006
+  },
+  {
+    "rank": 28,
+    "youtuber": "ChuChu TV Nursery Rhymes & Kids Songs",
+    "subscribers": 55800000,
+    "video views": "37,609,551,674",
+    "video count": 474,
+    "category": "Education",
+    "started": 2013
+  },
+  {
+    "rank": 29,
+    "youtuber": "Marshmello",
+    "subscribers": 55100000,
+    "video views": "12,967,930,243",
+    "video count": 393,
+    "category": "Entertainment",
+    "started": 2015
+  },
+  {
+    "rank": 30,
+    "youtuber": "Colors TV",
+    "subscribers": 51900000,
+    "video views": "48,868,988,091",
+    "video count": 78851,
+    "category": "Shows",
+    "started": 2008
+  },
+  {
+    "rank": 31,
+    "youtuber": "Wave Music",
+    "subscribers": 51700000,
+    "video views": "36,012,717,623",
+    "video count": 18630,
+    "category": "Music",
+    "started": 2014
+  },
+  {
+    "rank": 32,
+    "youtuber": "EminemMusic",
+    "subscribers": 51700000,
+    "video views": "22,733,757,739",
+    "video count": 138,
+    "category": "Music",
+    "started": 2007
+  },
+  {
+    "rank": 33,
+    "youtuber": "Ed Sheeran",
+    "subscribers": 51600000,
+    "video views": "26,988,082,012",
+    "video count": 240,
+    "category": "Music",
+    "started": 2006
+  },
+  {
+    "rank": 34,
+    "youtuber": "Aaj Tak",
+    "subscribers": 51100000,
+    "video views": "18,207,329,178",
+    "video count": 175877,
+    "category": "News & Politics",
+    "started": 2009
+  },
+  {
+    "rank": 35,
+    "youtuber": "Ariana Grande",
+    "subscribers": 51100000,
+    "video views": "21,549,846,530",
+    "video count": 146,
+    "category": "Music",
+    "started": 2007
+  },
+  {
+    "rank": 36,
+    "youtuber": "Sony Music India",
+    "subscribers": 50600000,
+    "video views": "23,567,472,626",
+    "video count": 3031,
+    "category": "Music",
+    "started": 2009
+  },
+  {
+    "rank": 37,
+    "youtuber": "Tips Official",
+    "subscribers": 50300000,
+    "video views": "26,034,278,484",
+    "video count": 3379,
+    "category": "Music",
+    "started": 2007
+  },
+  {
+    "rank": 38,
+    "youtuber": "T-Series Bhakti Sagar",
+    "subscribers": 49900000,
+    "video views": "22,797,147,163",
+    "video count": 23183,
+    "category": "Music",
+    "started": 2011
+  },
+  {
+    "rank": 39,
+    "youtuber": "El Reino Infantil",
+    "subscribers": 49300000,
+    "video views": "47,232,834,583",
+    "video count": 1222,
+    "category": "Music",
+    "started": 2011
+  },
+  {
+    "rank": 40,
+    "youtuber": "LooLoo Kids - Nursery Rhymes and Children's Songs",
+    "subscribers": 48900000,
+    "video views": "28,034,396,603",
+    "video count": 505,
+    "category": "Music",
+    "started": 2014
+  },
+  {
+    "rank": 41,
+    "youtuber": "Taylor Swift",
+    "subscribers": 46200000,
+    "video views": "24,711,297,896",
+    "video count": 189,
+    "category": "Music",
+    "started": 2006
+  },
+  {
+    "rank": 42,
+    "youtuber": "YRF",
+    "subscribers": 45500000,
+    "video views": "27,290,750,378",
+    "video count": 3131,
+    "category": "Film & Animation",
+    "started": 2006
+  },
+  {
+    "rank": 43,
+    "youtuber": "JuegaGerman",
+    "subscribers": 45500000,
+    "video views": "13,400,179,485",
+    "video count": 1918,
+    "category": "Gaming",
+    "started": 2013
+  },
+  {
+    "rank": 44,
+    "youtuber": "Badabun",
+    "subscribers": 45500000,
+    "video views": "18,388,171,178",
+    "video count": 11549,
+    "category": "Entertainment",
+    "started": 2014
+  },
+  {
+    "rank": 45,
+    "youtuber": "Billie Eilish",
+    "subscribers": 45300000,
+    "video views": "11,412,714,912",
+    "video count": 45,
+    "category": "Music",
+    "started": 2013
+  },
+  {
+    "rank": 46,
+    "youtuber": "Fernanfloo",
+    "subscribers": 44800000,
+    "video views": "9,834,587,080",
+    "video count": 541,
+    "category": "Gaming",
+    "started": 2011
+  },
+  {
+    "rank": 47,
+    "youtuber": "Felipe Neto",
+    "subscribers": 43900000,
+    "video views": "14,903,103,358",
+    "video count": 3305,
+    "category": "Entertainment",
+    "started": 2006
+  },
+  {
+    "rank": 48,
+    "youtuber": "Whinderssonnunes",
+    "subscribers": 43700000,
+    "video views": "4,056,749,823",
+    "video count": 517,
+    "category": "Comedy",
+    "started": 2013
+  },
+  {
+    "rank": 49,
+    "youtuber": "HolaSoyGerman",
+    "subscribers": 43200000,
+    "video views": "4,702,061,823",
+    "video count": 136,
+    "category": "Entertainment",
+    "started": 2011
+  },
+  {
+    "rank": 50,
+    "youtuber": "BRIGHT SIDE",
+    "subscribers": 43200000,
+    "video views": "9,762,131,005",
+    "video count": 4843,
+    "category": "How to & Style",
+    "started": 2017
+  },
+  {
+    "rank": 51,
+    "youtuber": "Infobells - Hindi",
+    "subscribers": 43200000,
+    "video views": "24,014,102,724",
+    "video count": 462,
+    "category": "Education",
+    "started": 2014
+  },
+  {
+    "rank": 52,
+    "youtuber": "Katy Perry",
+    "subscribers": 42700000,
+    "video views": "23,477,006,711",
+    "video count": 113,
+    "category": "Music",
+    "started": 2008
+  },
+  {
+    "rank": 53,
+    "youtuber": "Voce Sabia?",
+    "subscribers": 42600000,
+    "video views": "7,061,556,772",
+    "video count": 1253,
+    "category": "Entertainment",
+    "started": 2013
+  },
+  {
+    "rank": 54,
+    "youtuber": "Alan Walker",
+    "subscribers": 41700000,
+    "video views": "11,358,287,657",
+    "video count": 302,
+    "category": "Music",
+    "started": 2012
+  },
+  {
+    "rank": 55,
+    "youtuber": "SonyMusicIndiaVEVO",
+    "subscribers": 41300000,
+    "video views": "22,855,070,416",
+    "video count": 3228,
+    "category": "Music",
+    "started": 2009
+  },
+  {
+    "rank": 56,
+    "youtuber": "Like Nastya Show",
+    "subscribers": 41000000,
+    "video views": "18,474,229,002",
+    "video count": 551,
+    "category": "Entertainment",
+    "started": 2017
+  },
+  {
+    "rank": 57,
+    "youtuber": "elrubiusOMG",
+    "subscribers": 40400000,
+    "video views": "7,429,801,800",
+    "video count": 704,
+    "category": "Gaming",
+    "started": 2011
+  },
+  {
+    "rank": 58,
+    "youtuber": "Speed Records",
+    "subscribers": 40100000,
+    "video views": "23,698,345,670",
+    "video count": 10065,
+    "category": "Music",
+    "started": 2012
+  },
+  {
+    "rank": 59,
+    "youtuber": "A4",
+    "subscribers": 39400000,
+    "video views": "14,391,209,548",
+    "video count": 582,
+    "category": "Gaming",
+    "started": 2014
+  },
+  {
+    "rank": 60,
+    "youtuber": "Get Movies",
+    "subscribers": 39200000,
+    "video views": "27,941,044,582",
+    "video count": 3746,
+    "category": "Entertainment",
+    "started": 2006
+  },
+  {
+    "rank": 61,
+    "youtuber": "ABS-CBN Entertainment",
+    "subscribers": 39000000,
+    "video views": "46,162,631,485",
+    "video count": 173988,
+    "category": "People & Blogs",
+    "started": 2008
+  },
+  {
+    "rank": 62,
+    "youtuber": "Rihanna",
+    "subscribers": 39000000,
+    "video views": "19,498,773,786",
+    "video count": 79,
+    "category": "Entertainment",
+    "started": 2005
+  },
+  {
+    "rank": 63,
+    "youtuber": "Little Baby Bum - Nursery Rhymes & Kids Songs",
+    "subscribers": 38600000,
+    "video views": "35,945,824,996",
+    "video count": 1728,
+    "category": "Education",
+    "started": 2011
+  },
+  {
+    "rank": 64,
+    "youtuber": "Bad Bunny",
+    "subscribers": 38500000,
+    "video views": "19,328,721,596",
+    "video count": 98,
+    "category": "Music",
+    "started": 2014
+  },
+  {
+    "rank": 65,
+    "youtuber": "Luisito Comunica",
+    "subscribers": 38500000,
+    "video views": "7,351,172,092",
+    "video count": 1103,
+    "category": "Comedy",
+    "started": 2012
+  },
+  {
+    "rank": 66,
+    "youtuber": "TheEllenShow",
+    "subscribers": 38200000,
+    "video views": "22,040,498,763",
+    "video count": 14084,
+    "category": "Entertainment",
+    "started": 2006
+  },
+  {
+    "rank": 67,
+    "youtuber": "Маша и Медведь",
+    "subscribers": 37600000,
+    "video views": "31,845,287,102",
+    "video count": 1139,
+    "category": "Film & Animation",
+    "started": 2011
+  },
+  {
+    "rank": 68,
+    "youtuber": "GR6 EXPLODE",
+    "subscribers": 37200000,
+    "video views": "23,244,187,762",
+    "video count": 4067,
+    "category": "Music",
+    "started": 2014
+  },
+  {
+    "rank": 69,
+    "youtuber": "LUCCAS NETO - LUCCAS TOON",
+    "subscribers": 37100000,
+    "video views": "19,721,474,289",
+    "video count": 1781,
+    "category": "People & Blogs",
+    "started": 2014
+  },
+  {
+    "rank": 70,
+    "youtuber": "One Direction",
+    "subscribers": 37000000,
+    "video views": "12,395,170,322",
+    "video count": 157,
+    "category": "Music",
+    "started": 2010
+  },
+  {
+    "rank": 71,
+    "youtuber": "XXXTENTACION",
+    "subscribers": 36800000,
+    "video views": "9,439,987,125",
+    "video count": 114,
+    "category": "Music",
+    "started": 2015
+  },
+  {
+    "rank": 72,
+    "youtuber": "Ishtar Music",
+    "subscribers": 36600000,
+    "video views": "14,208,873,860",
+    "video count": 4496,
+    "category": "Trailers",
+    "started": 2005
+  },
+  {
+    "rank": 73,
+    "youtuber": "Voot Kids",
+    "subscribers": 36300000,
+    "video views": "16,096,496,089",
+    "video count": 2875,
+    "category": "Entertainment",
+    "started": 2016
+  },
+  {
+    "rank": 74,
+    "youtuber": "Daddy Yankee",
+    "subscribers": 36200000,
+    "video views": "19,516,597,967",
+    "video count": 409,
+    "category": "Music",
+    "started": 2011
+  },
+  {
+    "rank": 75,
+    "youtuber": "Kimberly Loaiza",
+    "subscribers": 36200000,
+    "video views": "3,997,275,983",
+    "video count": 197,
+    "category": "People & Blogs",
+    "started": 2016
+  },
+  {
+    "rank": 76,
+    "youtuber": "WorkpointOfficial",
+    "subscribers": 36200000,
+    "video views": "32,750,254,533",
+    "video count": 58916,
+    "category": "Entertainment",
+    "started": 2012
+  },
+  {
+    "rank": 77,
+    "youtuber": "News",
+    "subscribers": 36000000,
+    "video views": "24,960,523,215",
+    "video count": "",
+    "category": "News & Politics",
+    "started": 2013
+  },
+  {
+    "rank": 78,
+    "youtuber": "Shemaroo",
+    "subscribers": 36000000,
+    "video views": "19,282,156,578",
+    "video count": 8955,
+    "category": "Entertainment",
+    "started": 2007
+  },
+  {
+    "rank": 79,
+    "youtuber": "Maroon 5",
+    "subscribers": 35700000,
+    "video views": "20,238,289,703",
+    "video count": 163,
+    "category": "Music",
+    "started": 2006
+  },
+  {
+    "rank": 80,
+    "youtuber": "Shakira",
+    "subscribers": 35500000,
+    "video views": "22,591,879,625",
+    "video count": 269,
+    "category": "People & Blogs",
+    "started": 2005
+  },
+  {
+    "rank": 81,
+    "youtuber": "Toys and Colors",
+    "subscribers": 35300000,
+    "video views": "38,339,684,179",
+    "video count": 765,
+    "category": "Entertainment",
+    "started": 2016
+  },
+  {
+    "rank": 82,
+    "youtuber": "CarryMinati",
+    "subscribers": 35200000,
+    "video views": "2,844,277,672",
+    "video count": 177,
+    "category": "Comedy",
+    "started": 2014
+  },
+  {
+    "rank": 83,
+    "youtuber": "Shfa",
+    "subscribers": 35100000,
+    "video views": "18,171,683,239",
+    "video count": 795,
+    "category": "People & Blogs",
+    "started": 2015
+  },
+  {
+    "rank": 84,
+    "youtuber": "Ozuna",
+    "subscribers": 34800000,
+    "video views": "20,471,335,787",
+    "video count": 137,
+    "category": "Music",
+    "started": 2016
+  },
+  {
+    "rank": 85,
+    "youtuber": "shfa2 - شفا",
+    "subscribers": 34700000,
+    "video views": "19,676,656,583",
+    "video count": 1224,
+    "category": "People & Blogs",
+    "started": 2017
+  },
+  {
+    "rank": 86,
+    "youtuber": "Bruno Mars",
+    "subscribers": 34700000,
+    "video views": "16,706,459,290",
+    "video count": 95,
+    "category": "Music",
+    "started": 2006
+  },
+  {
+    "rank": 87,
+    "youtuber": "TEDx Talks",
+    "subscribers": 34500000,
+    "video views": "6,356,262,947",
+    "video count": 179816,
+    "category": "Nonprofits & Activism",
+    "started": 2009
+  },
+  {
+    "rank": 88,
+    "youtuber": "Jkk Entertainment",
+    "subscribers": 34500000,
+    "video views": "14,403,267,858",
+    "video count": 186,
+    "category": "Comedy",
+    "started": 2017
+  },
+  {
+    "rank": 89,
+    "youtuber": "Super Simple Songs - Kids Songs",
+    "subscribers": 33900000,
+    "video views": "35,216,710,205",
+    "video count": 587,
+    "category": "Education",
+    "started": 2006
+  },
+  {
+    "rank": 90,
+    "youtuber": "one31",
+    "subscribers": 33400000,
+    "video views": "26,302,194,542",
+    "video count": 122287,
+    "category": "Entertainment",
+    "started": 2013
+  },
+  {
+    "rank": 91,
+    "youtuber": "J Balvin",
+    "subscribers": 33300000,
+    "video views": "20,881,421,568",
+    "video count": 129,
+    "category": "Music",
+    "started": 2011
+  },
+  {
+    "rank": 92,
+    "youtuber": "Masha and The Bear",
+    "subscribers": 33200000,
+    "video views": "17,999,127,339",
+    "video count": 872,
+    "category": "Shows",
+    "started": 2014
+  },
+  {
+    "rank": 93,
+    "youtuber": "VEGETTA777",
+    "subscribers": 33000000,
+    "video views": "14,724,851,921",
+    "video count": 7007,
+    "category": "Gaming",
+    "started": 2008
+  },
+  {
+    "rank": 94,
+    "youtuber": "YouTube",
+    "subscribers": 32900000,
+    "video views": "2,647,950,108",
+    "video count": 483,
+    "category": "News & Politics",
+    "started": 1970
+  },
+  {
+    "rank": 95,
+    "youtuber": "Goldmines Gaane Sune Ansune",
+    "subscribers": 32800000,
+    "video views": "13,405,543,587",
+    "video count": 2925,
+    "category": "Music",
+    "started": 2015
+  },
+  {
+    "rank": 96,
+    "youtuber": "Markiplier",
+    "subscribers": 32600000,
+    "video views": "18,011,837,263",
+    "video count": 5129,
+    "category": "Gaming",
+    "started": 2012
+  },
+  {
+    "rank": 97,
+    "youtuber": "Like Nastya ESP",
+    "subscribers": 32600000,
+    "video views": "15,144,858,210",
+    "video count": 584,
+    "category": "Entertainment",
+    "started": 2017
+  },
+  {
+    "rank": 98,
+    "youtuber": "Ryan's World",
+    "subscribers": 32400000,
+    "video views": "51,312,603,726",
+    "video count": 2155,
+    "category": "Entertainment",
+    "started": 2015
+  },
+  {
+    "rank": 99,
+    "youtuber": "ABP News",
+    "subscribers": 32300000,
+    "video views": "9,850,740,503",
+    "video count": 209351,
+    "category": "People & Blogs",
+    "started": 2012
+  },
+  {
+    "rank": 100,
+    "youtuber": "Desi Music Factory",
+    "subscribers": 32200000,
+    "video views": "9,115,577,588",
+    "video count": 122,
+    "category": "Music",
+    "started": 2014
+  }
+]

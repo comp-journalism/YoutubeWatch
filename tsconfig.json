@@ -17,6 +17,6 @@
     "noImplicitAny": false
 
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/Table.js", "pages/dashboard.js", "pages/random.js"],
   "exclude": ["node_modules"]
 }

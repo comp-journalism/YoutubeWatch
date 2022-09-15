@@ -56,10 +56,19 @@ export default function Navbar() {
               <Link
                 href="/dashboard"
               >
-                Dashboard
+                Dashboard 
               </Link>
-            </li>
 
+            </li>
+            <li                 className="block py-2 pr-4 pl-4 text-xl text-gray-700 hover:text-gray-50 md:hover:bg-transparent hover:text-gray-500"
+>
+              <Link
+                href="/random"
+              >
+                Random 
+              </Link>
+
+            </li>
           </ul>
         </div>
       </div>
